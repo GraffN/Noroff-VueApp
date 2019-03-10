@@ -13,7 +13,7 @@ i could not make the app work poperly, i was having problems with a iteration ex
 
 4. cd into the new folder by the means of the command line
 
-5.install the node_modules by typing "npm install". this will take a minute.
+5.install the node_modules by typing "npm install" on the command line. this will take a minute.
 
 6.enter the "npm run serve" command and press enter
 
