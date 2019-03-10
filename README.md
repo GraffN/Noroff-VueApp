@@ -13,13 +13,15 @@ i could not make the app work poperly, i was having problems with a iteration ex
 
 4. cd into the new folder by the means of the command line
 
-5.enter the "npm run serve" command and press enter
+5.install the node_modules by typing "npm install". this will take a minute.
+
+6.enter the "npm run serve" command and press enter
 
 this should start a prosess creating starting a local server for the website
 
 when it's finnished, you can see that you have two(2) links shown on the command line
 
-copy the local: url (http://localhost:8080/) and paste it in your browser and press enter.
+7.copy the local: url (http://localhost:8080/) and paste it in your browser and press enter.
 
 
 here you see a login. login info is
