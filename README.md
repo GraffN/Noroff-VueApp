@@ -21,7 +21,7 @@ this should start a prosess creating starting a local server for the website
 
 when it's finnished, you can see that you have two(2) links shown on the command line
 
-7.copy the local: url (http://localhost:8080/) and paste it in your browser and press enter.
+7. copy the local: url (http://localhost:8080/) and paste it in your browser and press enter.
 
 
 here you see a login. login info is
