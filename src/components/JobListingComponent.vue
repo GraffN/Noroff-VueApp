@@ -29,7 +29,7 @@
     margin-top: 30px;
 }
     .card img {
-        width: 100px;
+        width: 110px;
         padding-top: 20px;
     }
 </style>
